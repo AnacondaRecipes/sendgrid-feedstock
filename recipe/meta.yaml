@@ -24,6 +24,7 @@ requirements:
     - python
     - python_http_client >=3.0
     - pyyaml
+    - ecdsa
     - six
     - werkzeug
 
