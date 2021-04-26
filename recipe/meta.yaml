@@ -22,11 +22,11 @@ requirements:
     - pip
   run:
     - python
-    - python_http_client >=3.0
+    - python_http_client >=3.2.1
     - pyyaml
     - ecdsa
     - six
-    - starkbank-ecdsa
+    - starkbank-ecdsa >=1.0.0
     - werkzeug
 
 test:
